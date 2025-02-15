@@ -28,7 +28,7 @@ const LoginScreen = () => {
         <Image source={require('../assets/logo.png')} style={styles.logo} />
       </View>
 
-      <Text style={styles.title}>Добро пожаловать!</Text>
+      <Text style={styles.title}>Как погодка!</Text>
       <Text style={styles.subtitle}>Войдите, чтобы продолжить</Text>
 
       <View style={styles.socialButtonsContainer}>
